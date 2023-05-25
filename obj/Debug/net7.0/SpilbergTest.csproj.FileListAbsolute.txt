@@ -1,0 +1,15 @@
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/bin/Debug/net7.0/SpilbergTest
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/bin/Debug/net7.0/SpilbergTest.deps.json
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/bin/Debug/net7.0/SpilbergTest.runtimeconfig.json
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/bin/Debug/net7.0/SpilbergTest.dll
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/bin/Debug/net7.0/SpilbergTest.pdb
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.csproj.AssemblyReference.cache
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.AssemblyInfoInputs.cache
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.AssemblyInfo.cs
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.csproj.CoreCompileInputs.cache
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.dll
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/refint/SpilbergTest.dll
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.pdb
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/SpilbergTest.genruntimeconfig.cache
+/Users/arnostas/Projects/C#/SpilbergTest/SpilbergTest/obj/Debug/net7.0/ref/SpilbergTest.dll
